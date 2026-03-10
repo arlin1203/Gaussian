@@ -18,13 +18,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 
 ## Program:
-```
+```python
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: R.ARLIN REJ
 RegisterNumber: 212225040027
 */
-```python
 import numpy as np
 import sys
 n=int(input())
